@@ -1,5 +1,19 @@
-title: Club Documentation
+title: SARP Docs
 description: Documentation, guides, and shared resources for the club.
 theme: just-the-docs
+color_scheme: dark
 
 permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions

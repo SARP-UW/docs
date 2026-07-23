@@ -1,7 +1,8 @@
+.agents
 _site/
 .jekyll-cache/
 .sass-cache/
 .bundle/
 vendor/
 Gemfile.lock
-
+__pycache__/

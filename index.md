@@ -1,27 +1,7 @@
 ---
-title: Home
-layout: home
+title: "Home"
 nav_order: 1
 ---
 
-# Club Documentation
-
-Welcome to the club documentation site. Use this space for member guides, event notes, operating procedures, and shared resources.
-
-## Quick Links
-
-- [Getting Started]({{ '/docs/getting-started/' | relative_url }})
-- [Membership]({{ '/docs/membership/' | relative_url }})
-- [Events]({{ '/docs/events/' | relative_url }})
-
-## Contributing
-
-Documentation pages are written in Markdown. Add new pages to the `docs` folder and include front matter at the top of each file:
-
-```yaml
----
-title: Page Title
-layout: default
-nav_order: 10
----
-```
+# SARP Docs
+**Welcome to SARP's official documentation website!** SARP, *The Society for Advanced Rocket Propulsion* is the largest student orginization for liquid and solid rocketry at the *University of Washington*. This site contains official technical documentation, learning resources, and general information pertaining to its various projects and sub-teams.
